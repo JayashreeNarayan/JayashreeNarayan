@@ -13,7 +13,7 @@ I am a Physics Undergrad at IISER Mohali, India.
 
 - 🔭 I have had an interest in Cosmology and computational physics ever since I was 13.
 - 🌱 I write for Manthan and I am the Managing editor for Inventa National Science Magazine.
-- ⚡ I am the acting convener of the Women in physics math and astronomy club at IISER Mohali and the Coding club (Turing)
+- ⚡ I am the acting convener of the Women in physics math and astronomy club at IISER Mohali and an active member of the Coding club (Turing)
 - 📫 You can reach me on twitter and on Linkedin!
 
 ---
