@@ -9,12 +9,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Physics Undergrad at IISER Mohali, India.
+I am a Physics Undergrad at IISER Mohali, India. I am currently enrolled in aBS-MS dual degree at IISER meaning I graduated high school in 2020 and I graduate in 2025 with a Master's in Physics.
 
-- 🔭 I have had an interest in Cosmology and computational physics ever since I was 13.
-- 🌱 I write for Manthan and I am the Managing editor for Inventa National Science Magazine.
-- ⚡ I am the acting convener of the Women in physics math and astronomy club at IISER Mohali and an active member of the Coding club (Turing)
-- 📫 You can reach me on twitter and on Linkedin!
+- 👩‍💻 I have had an interest in Computational Physics ever since I was 13. 
+- ⚛️ I have doen computational work in fields like astronomy (star and planet formation), cosmology (traced the path of a photon around a black hole), quantum physics (to an introduction level), material science (found the resonating frequency of a GaAs crystal) and even a little bit of Quantum Field Theory (I learnt the MCMC method on a Field system)
+- 🖊️ I dabble in poetry and writing often, do quite like it.
+- 🔍 You can find me on twitter and LinekdIn for more info!
 
 ---
 
