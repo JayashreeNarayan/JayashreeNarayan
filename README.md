@@ -9,10 +9,10 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Physics Undergrad at IISER Mohali, India. I am currently enrolled in aBS-MS dual degree at IISER meaning I graduated high school in 2020 and I graduate in 2025 with a Master's in Physics.
+I am a Physics Undergrad at IISER Mohali, India. I am currently enrolled in a BS-MS dual degree at IISER, meaning I graduated high school in 2020 and I graduate from IISER in 2025 with a Master's in Physics.
 
-- 👩‍💻 I have had an interest in Computational Physics ever since I was 13. 
-- ⚛️ I have doen computational work in fields like astronomy (star and planet formation), cosmology (traced the path of a photon around a black hole), quantum physics (to an introduction level), material science (found the resonating frequency of a GaAs crystal) and even a little bit of Quantum Field Theory (I learnt the MCMC method on a Field system)
+- ⌨️ I have had an interest in Computational Physics ever since I was 13. 
+- ⚛️ I have done Computational work in fields like Astronomy (star and planet formation), Cosmology (traced the path of a photon around a black hole), Quantum Physics (to an introduction level), Material Science (found the resonating frequency of a GaAs crystal) and even a little bit of Quantum Field Theory (I learnt the MCMC method on a Field system)
 - 🖊️ I dabble in poetry and writing often, do quite like it.
 - 🔍 You can find me on twitter and LinekdIn for more info!
 
@@ -28,10 +28,3 @@ I am a Physics Undergrad at IISER Mohali, India. I am currently enrolled in aBS-
 </p>
 
 ---
-
-<!--
-### ✍️ Manthan and Inventa Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
