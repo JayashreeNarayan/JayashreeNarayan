@@ -14,7 +14,7 @@ I am a Physics Undergrad at IISER Mohali, India. I am currently enrolled in a BS
 - ⌨️ I have had an interest in Computational Physics ever since I was 13. 
 - ⚛️ I have done Computational work in fields like Astronomy (star and planet formation), Cosmology (traced the path of a photon around a black hole), Quantum Physics (to an introduction level), Material Science (found the resonating frequency of a GaAs crystal) and even a little bit of Quantum Field Theory (I learnt the MCMC method on a Field system)
 - 🖊️ I dabble in poetry and writing often, do quite like it.
-- 🔍 You can find me on twitter and LinekdIn for more info!
+- 🔍 You can find me on Twitter and LinkedIn for more info!
 
 ---
 
